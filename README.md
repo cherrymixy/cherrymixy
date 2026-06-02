@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm 🍒 SeungA Jeon
 
-<!--
-**cherrymixy/cherrymixy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### UX/UI & Product Designer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building experimental experiences that bridge **Design, AI, and Real-World Interaction**.
+
+🔍 [About Me](about.md)
+
+---
+
+## 🛠️ Design & Tools
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=Figma\&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge\&logo=Framer\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=GitHub\&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge\&logo=openai\&logoColor=white)
+
+---
+
+## 📫 Connect
+
+💼 [LinkedIn](https://www.linkedin.com/in/seungajeon)
+
+🎨 [Behance](https://www.behance.net/cherrymixy)
+
+---
+
+> “Meaningful design begins with understanding people, then transforming those insights into tangible experiences.”
