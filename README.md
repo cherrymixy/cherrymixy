@@ -38,11 +38,10 @@ Building experimental experiences that bridge **Design, AI, and Real-World Inter
 
 ### AI & Vibe Coding
 
-![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
+![Codex](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=for-the-badge)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
 ![Midjourney](https://img.shields.io/badge/Midjourney-111111?style=for-the-badge)
-![Runway](https://img.shields.io/badge/Runway-000000?style=for-the-badge)
+![ComfyUI](https://img.shields.io/badge/Runway-000000?style=for-the-badge)
 ![Kling](https://img.shields.io/badge/Kling-111111?style=for-the-badge)
 
 
