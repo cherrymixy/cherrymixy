@@ -68,3 +68,7 @@ Building experimental experiences that bridge **Design, AI, and Real-World Inter
 
 
 > “🍒 Curious about people. Exploring the future through AI.”
+>
+> <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/cherrymixy?pet-id=1" width="1000" height="120"/>
+</a>
