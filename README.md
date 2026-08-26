@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.jpg" width="100%" alt="SeungA Jeon — UX/UI · Branding · Product Designer">
+<img src="./assets/hero.png" width="100%" alt="SeungA Jeon — UX/UI · Branding · Product Designer">
 
 <br>
 
