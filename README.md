@@ -1,11 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.png">
-  <img src="./assets/hero-light.png" width="100%" alt="SeungA Jeon — UX/UI · Branding · Product Designer">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/title-dark.png">
+  <img src="./assets/title-light.png" width="100%" alt="SeungA Jeon — UX/UI · Branding · Product Designer">
 </picture>
-
-<br>
 
 <a href="https://www.behance.net/cherrymixy"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
 <a href="https://www.linkedin.com/in/seungajeon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
