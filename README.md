@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="./assets/hero.png" width="100%" alt="SeungA Jeon — UX/UI · Branding · Product Designer">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.png">
+  <img src="./assets/hero-light.png" width="100%" alt="SeungA Jeon — UX/UI · Branding · Product Designer">
+</picture>
 
 <br>
 
@@ -95,10 +98,3 @@
 <a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/cherrymixy" width="600" alt="gitanimals farm"></a>
 
 </div>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.jpg">
-  <img src="./assets/footer-light.jpg" alt="How can technology become a better experience for people?" width="100%">
-</picture>
