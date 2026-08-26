@@ -19,12 +19,9 @@
 
 <div align="center">
 
-<a href="https://github.com/cherrymixy/Cature"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work-01-dark.png"><img src="./assets/work-01-light.png" width="49%" alt="Cature — 도시 속 생명을 발견하고 AR로 다시 만나는 iOS 앱"></picture></a>
-<a href="https://github.com/cherrymixy/black-magic"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work-02-dark.png"><img src="./assets/work-02-light.png" width="49%" alt="Black Magic — Y2K 하이틴 변신 인터랙티브 웹 게임"></picture></a>
-<a href="https://github.com/cherrymixy/GrapeVine"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work-03-dark.png"><img src="./assets/work-03-light.png" width="49%" alt="Grape Vine — 친구의 칭찬이 포도알로 자라는 칭찬 넝쿨"></picture></a>
-<a href="https://github.com/cherrymixy/HAL9000"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work-04-dark.png"><img src="./assets/work-04-light.png" width="49%" alt="HAL 9000 — 2001 스페이스 오디세이 테마 인터랙티브 랜딩"></picture></a>
-<a href="https://github.com/cherrymixy/fitzy"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work-05-dark.png"><img src="./assets/work-05-light.png" width="49%" alt="FITZY — 9칸 보드를 사진으로 채우는 데일리 무드 기록 앱"></picture></a>
-<a href="https://github.com/cherrymixy/ABA"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work-06-dark.png"><img src="./assets/work-06-light.png" width="49%" alt="ABA — 브로콜리 반대 협회, 풍자 스크롤리텔링"></picture></a>
+<a href="https://github.com/cherrymixy/Cature"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work-01-dark.png"><img src="./assets/work-01-light.png" width="50%" alt="Cature — 도시 속 생명을 발견하고 AR로 다시 만나는 iOS 앱"></picture></a><a href="https://github.com/cherrymixy/black-magic"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work-02-dark.png"><img src="./assets/work-02-light.png" width="50%" alt="Black Magic — Y2K 하이틴 변신 인터랙티브 웹 게임"></picture></a>
+<a href="https://github.com/cherrymixy/GrapeVine"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work-03-dark.png"><img src="./assets/work-03-light.png" width="50%" alt="Grape Vine — 친구의 칭찬이 포도알로 자라는 칭찬 넝쿨"></picture></a><a href="https://github.com/cherrymixy/HAL9000"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work-04-dark.png"><img src="./assets/work-04-light.png" width="50%" alt="HAL 9000 — 2001 스페이스 오디세이 테마 인터랙티브 랜딩"></picture></a>
+<a href="https://github.com/cherrymixy/fitzy"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work-05-dark.png"><img src="./assets/work-05-light.png" width="50%" alt="FITZY — 9칸 보드를 사진으로 채우는 데일리 무드 기록 앱"></picture></a><a href="https://github.com/cherrymixy/ABA"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work-06-dark.png"><img src="./assets/work-06-light.png" width="50%" alt="ABA — 브로콜리 반대 협회, 풍자 스크롤리텔링"></picture></a>
 
 </div>
 
