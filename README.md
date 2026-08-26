@@ -17,32 +17,16 @@
 
 ## 🍒 Selected Works
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/cherrymixy/Cature"><img src="./assets/card-cature.png" width="100%" alt="Cature — 도시 속 생명을 발견하고 AR로 다시 만나는 iOS 앱"></a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/cherrymixy/black-magic"><img src="./assets/card-black-magic.png" width="100%" alt="BLACK MAGIC — Y2K 하이틴 변신 인터랙티브 웹 게임"></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/cherrymixy/HAL9000"><img src="./assets/card-hal9000.png" width="100%" alt="HAL 9000 — 2001 스페이스 오디세이 테마 인터랙티브 랜딩"></a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/cherrymixy/GrapeVine"><img src="./assets/card-grapevine.png" width="100%" alt="GrapeVine — 친구의 칭찬이 포도알로 자라는 칭찬 넝쿨"></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/cherrymixy/fitzy"><img src="./assets/card-fitzy.png" width="100%" alt="fitzy — 9칸 보드를 사진으로 채우는 데일리 무드 기록 앱"></a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/cherrymixy/ABA"><img src="./assets/card-aba.png" width="100%" alt="ABA — 브로콜리 반대 협회, 풍자 스크롤리텔링"></a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/cherrymixy/Cature"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work-01-dark.png"><img src="./assets/work-01-light.png" width="48%" alt="Cature — 도시 속 생명을 발견하고 AR로 다시 만나는 iOS 앱"></picture></a>
+<a href="https://github.com/cherrymixy/black-magic"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work-02-dark.png"><img src="./assets/work-02-light.png" width="48%" alt="Black Magic — Y2K 하이틴 변신 인터랙티브 웹 게임"></picture></a>
+<a href="https://github.com/cherrymixy/GrapeVine"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work-03-dark.png"><img src="./assets/work-03-light.png" width="48%" alt="Grape Vine — 친구의 칭찬이 포도알로 자라는 칭찬 넝쿨"></picture></a>
+<a href="https://github.com/cherrymixy/HAL9000"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work-04-dark.png"><img src="./assets/work-04-light.png" width="48%" alt="HAL 9000 — 2001 스페이스 오디세이 테마 인터랙티브 랜딩"></picture></a>
+<a href="https://github.com/cherrymixy/fitzy"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work-05-dark.png"><img src="./assets/work-05-light.png" width="48%" alt="FITZY — 9칸 보드를 사진으로 채우는 데일리 무드 기록 앱"></picture></a>
+<a href="https://github.com/cherrymixy/ABA"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work-06-dark.png"><img src="./assets/work-06-light.png" width="48%" alt="ABA — 브로콜리 반대 협회, 풍자 스크롤리텔링"></picture></a>
+
+</div>
 
 <br>
 
