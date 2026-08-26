@@ -1,74 +1,107 @@
-# 👋 Hi, I'm 🍒 SeungA Jeon
+<div align="center">
 
-### UX/UI & Product Designer
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.jpg">
+  <img src="./assets/hero-light.jpg" alt="SeungA Jeon — UX/UI & Product Designer" width="100%">
+</picture>
 
+<br>
 
-Building experimental experiences that bridge **Design, AI, and Real-World Interaction**.
-🔍 [About Me](about.md)
+<a href="https://www.behance.net/cherrymixy"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
+<a href="https://www.linkedin.com/in/seungajeon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="./about.md"><img src="https://img.shields.io/badge/About%20Me-1C1215?style=for-the-badge&logo=readme&logoColor=white" alt="About Me"></a>
 
----
-## 🛠️ Design & Tools
+</div>
 
-### Core Skills
+<br>
 
-![UX Research](https://img.shields.io/badge/UX%20Research-E8F1FF?style=for-the-badge\&labelColor=E8F1FF\&color=E8F1FF)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-E8F1FF?style=for-the-badge\&labelColor=E8F1FF\&color=E8F1FF)
-![Logical Thinking](https://img.shields.io/badge/Logical%20Thinking-E8F1FF?style=for-the-badge\&labelColor=E8F1FF\&color=E8F1FF)
-![Prototyping](https://img.shields.io/badge/Prototyping-E8F1FF?style=for-the-badge\&labelColor=E8F1FF\&color=E8F1FF)
-![Information Architecture](https://img.shields.io/badge/Information%20Architecture-E8F1FF?style=for-the-badge\&labelColor=E8F1FF\&color=E8F1FF)
+## 🍒 Selected Works
 
-![Interface Design](https://img.shields.io/badge/Interface%20Design-F2F2F2?style=for-the-badge\&labelColor=F2F2F2\&color=F2F2F2)
-![Design Systems](https://img.shields.io/badge/Design%20Systems-F2F2F2?style=for-the-badge\&labelColor=F2F2F2\&color=F2F2F2)
-![Data-Informed UX](https://img.shields.io/badge/Data--Informed%20UX-F2F2F2?style=for-the-badge\&labelColor=F2F2F2\&color=F2F2F2)
-![Human-AI Interaction](https://img.shields.io/badge/Human--AI%20Interaction-F2F2F2?style=for-the-badge\&labelColor=F2F2F2\&color=F2F2F2)
-![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-F2F2F2?style=for-the-badge\&labelColor=F2F2F2\&color=F2F2F2)
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/cherrymixy/Cature"><img src="./assets/card-cature.png" width="100%" alt="Cature — 도시 속 생명을 발견하고 AR로 다시 만나는 iOS 앱"></a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/cherrymixy/black-magic"><img src="./assets/card-black-magic.png" width="100%" alt="BLACK MAGIC — Y2K 하이틴 변신 인터랙티브 웹 게임"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/cherrymixy/HAL9000"><img src="./assets/card-hal9000.png" width="100%" alt="HAL 9000 — 2001 스페이스 오디세이 테마 인터랙티브 랜딩"></a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/cherrymixy/GrapeVine"><img src="./assets/card-grapevine.png" width="100%" alt="GrapeVine — 친구의 칭찬이 포도알로 자라는 칭찬 넝쿨"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/cherrymixy/fitzy"><img src="./assets/card-fitzy.png" width="100%" alt="fitzy — 9칸 보드를 사진으로 채우는 데일리 무드 기록 앱"></a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/cherrymixy/ABA"><img src="./assets/card-aba.png" width="100%" alt="ABA — 브로콜리 반대 협회, 풍자 스크롤리텔링"></a>
+    </td>
+  </tr>
+</table>
 
+<br>
 
+## 🧰 Toolbox
 
-### Design Tools
+<div align="center">
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge\&logo=framer\&logoColor=white)
-![ProtoPie](https://img.shields.io/badge/ProtoPie-FF5A5F?style=for-the-badge\&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge\&logo=adobephotoshop\&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge\&logo=adobeillustrator\&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge\&logo=adobeaftereffects\&logoColor=white)
+<sub>**D E S I G N**</sub>
 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![ProtoPie](https://img.shields.io/badge/ProtoPie-FF5A5F?style=for-the-badge&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
+<sub>**B U I L D&nbsp;&nbsp;W I T H&nbsp;&nbsp;A I**</sub>
 
-### AI & Vibe Coding
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logoColor=white)
+![Midjourney](https://img.shields.io/badge/Midjourney-1B1B1B?style=for-the-badge&logo=midjourney&logoColor=white)
+![Runway](https://img.shields.io/badge/Runway-0B0B0B?style=for-the-badge&logoColor=white)
 
-![Codex](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=for-the-badge)
-![Midjourney](https://img.shields.io/badge/Midjourney-111111?style=for-the-badge)
-![ComfyUI](https://img.shields.io/badge/Runway-000000?style=for-the-badge)
-![Kling](https://img.shields.io/badge/Kling-111111?style=for-the-badge)
+<sub>**S H I P**</sub>
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+</div>
 
-### Collaboration & Workflow
+<br>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)
-![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge\&logo=googledocs\&logoColor=white)
-![Google Slides](https://img.shields.io/badge/Google%20Slides-FBBC04?style=for-the-badge\&logo=googleslides\&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge\&logo=googlesheets\&logoColor=white)
-![Keynote](https://img.shields.io/badge/Keynote-2767FF?style=for-the-badge\&logo=apple\&logoColor=white)
+## 🌱 Now
 
----
+<div align="center">
 
-## 📫 Connect
+![Physical AI](https://img.shields.io/badge/Physical%20AI-FFDCE4?style=flat-square&labelColor=FFDCE4&color=FFDCE4)
+![Robotics UX](https://img.shields.io/badge/Robotics%20UX-FFDCE4?style=flat-square&labelColor=FFDCE4&color=FFDCE4)
+![Human–AI Interaction](https://img.shields.io/badge/Human%E2%80%93AI%20Interaction-FFDCE4?style=flat-square&labelColor=FFDCE4&color=FFDCE4)
+![AI-native Products](https://img.shields.io/badge/AI--native%20Products-FFDCE4?style=flat-square&labelColor=FFDCE4&color=FFDCE4)
+![Design Systems](https://img.shields.io/badge/Design%20Systems-FFDCE4?style=flat-square&labelColor=FFDCE4&color=FFDCE4)
 
-<p align="center">
-  <img src="./Pixel%20Art%20Cherries.gif" width="120">
-</p>
+<br>
 
-💼 [LinkedIn](https://www.linkedin.com/in/seungajeon)
-🎨 [Behance](https://www.behance.net/cherrymixy)
+<img src="./Pixel%20Art%20Cherries.gif" width="110" alt="pixel art cherries">
 
+<a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/cherrymixy" width="600" alt="gitanimals farm"></a>
 
-> “🍒 Curious about people. Exploring the future through AI.”
->
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/cherrymixy"/>
-</a>
+</div>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.jpg">
+  <img src="./assets/footer-light.jpg" alt="How can technology become a better experience for people?" width="100%">
+</picture>
