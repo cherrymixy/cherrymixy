@@ -55,6 +55,10 @@
 
 ## 🌱 Now
 
+<img src="./Pixel%20Art%20Cherries.gif" width="110" alt="pixel art cherries">
+
+<br>
+
 <div align="center">
 
 ![Physical AI](https://img.shields.io/badge/Physical%20AI-FFDCE4?style=flat-square&labelColor=FFDCE4&color=FFDCE4)
@@ -65,8 +69,12 @@
 
 <br>
 
-<img src="./Pixel%20Art%20Cherries.gif" width="110" alt="pixel art cherries">
-
-<a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/cherrymixy" width="600" alt="gitanimals farm"></a>
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=cherrymixy&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/cherrymixy"
+  width="600"
+  height="300"
+/>
+</a>
 
 </div>
