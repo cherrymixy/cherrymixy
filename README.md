@@ -55,11 +55,11 @@
 
 ## 🌱 Now
 
+<div align="center">
+
 <img src="./Pixel%20Art%20Cherries.gif" width="110" alt="pixel art cherries">
 
 <br>
-
-<div align="center">
 
 ![Physical AI](https://img.shields.io/badge/Physical%20AI-FFDCE4?style=flat-square&labelColor=FFDCE4&color=FFDCE4)
 ![Robotics UX](https://img.shields.io/badge/Robotics%20UX-FFDCE4?style=flat-square&labelColor=FFDCE4&color=FFDCE4)
