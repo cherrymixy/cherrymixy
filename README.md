@@ -29,17 +29,25 @@
 
 <div align="center">
 
-<sub>**D E S I G N**</sub>
+<sub>**G&nbsp;R&nbsp;A&nbsp;P&nbsp;H&nbsp;I&nbsp;C**</sub>
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logoColor=white&logo=figma" alt="Figma">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logoColor=white&logo=framer" alt="Framer">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/ProtoPie-FF5A5F?style=for-the-badge&logoColor=white" alt="ProtoPie">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logoColor=white&logo=adobephotoshop" alt="Photoshop">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logoColor=white&logo=adobeillustrator" alt="Illustrator">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logoColor=white&logo=adobeaftereffects" alt="After Effects">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logoColor=white&logo=figma" alt="Figma">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/ProtoPie-FF5A5F?style=for-the-badge&logoColor=white" alt="ProtoPie">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logoColor=white&logo=adobephotoshop" alt="Photoshop">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logoColor=white&logo=adobeillustrator" alt="Illustrator"><br><br><img src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logoColor=white&logo=adobeindesign" alt="InDesign">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logoColor=white&logo=adobeaftereffects" alt="After Effects">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Cinema%204D-011A6A?style=for-the-badge&logoColor=white&logo=cinema4d" alt="Cinema 4D">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logoColor=white&logo=blender" alt="Blender">
 
-<sub>**B U I L D&nbsp;&nbsp;W I T H&nbsp;&nbsp;A I**</sub>
+<sub>→ Unreal Engine 학습 중</sub>
 
-<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logoColor=white&logo=claude" alt="Claude Code">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logoColor=white&logo=openai" alt="Codex">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logoColor=white" alt="Cursor">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Midjourney-1B1B1B?style=for-the-badge&logoColor=white&logo=midjourney" alt="Midjourney">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Runway-0B0B0B?style=for-the-badge&logoColor=white" alt="Runway">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Kling-111111?style=for-the-badge&logoColor=white" alt="Kling">
+<sub>**G&nbsp;E&nbsp;N&nbsp;E&nbsp;R&nbsp;A&nbsp;T&nbsp;I&nbsp;V&nbsp;E&nbsp; &nbsp;A&nbsp;I**</sub>
 
-<sub>**S H I P**</sub>
+<img src="https://img.shields.io/badge/Midjourney-1B1B1B?style=for-the-badge&logoColor=white&logo=midjourney" alt="Midjourney">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Runway-0B0B0B?style=for-the-badge&logoColor=white" alt="Runway">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Kling-111111?style=for-the-badge&logoColor=white" alt="Kling">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/ComfyUI-1A1A1A?style=for-the-badge&logoColor=white" alt="ComfyUI">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Adobe%20Firefly-1A1A1A?style=for-the-badge&logoColor=white&logo=adobe" alt="Adobe Firefly">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Sora-000000?style=for-the-badge&logoColor=white&logo=openai" alt="Sora">
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logoColor=white&logo=nextdotjs" alt="Next.js">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logoColor=white&logo=react" alt="React">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logoColor=white&logo=flutter" alt="Flutter">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logoColor=white&logo=swift" alt="Swift">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logoColor=white&logo=supabase" alt="Supabase">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logoColor=white&logo=vercel" alt="Vercel">
+<sub>→ Weavy · Vizcom · Magnific · Nano Banana Pro · ChatGPT · Claude · Gemini · Perplexity</sub>
+
+<sub>**V&nbsp;I&nbsp;B&nbsp;E&nbsp; &nbsp;C&nbsp;O&nbsp;D&nbsp;I&nbsp;N&nbsp;G**</sub>
+
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logoColor=white&logo=claude" alt="Claude Code">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logoColor=white&logo=openai" alt="Codex">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logoColor=white" alt="Cursor">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logoColor=white&logo=github" alt="GitHub">
+
+<sub>**O&nbsp;A**</sub>
+
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logoColor=white&logo=notion" alt="Notion">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Docs-4285F4?style=for-the-badge&logoColor=white&logo=googledocs" alt="Docs">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Slides-FBBC04?style=for-the-badge&logoColor=white&logo=googleslides" alt="Slides">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Sheets-34A853?style=for-the-badge&logoColor=white&logo=googlesheets" alt="Sheets">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Keynote-2767FF?style=for-the-badge&logoColor=white&logo=apple" alt="Keynote">
 
 </div>
 
